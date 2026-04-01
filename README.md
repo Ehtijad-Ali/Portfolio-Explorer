@@ -8,16 +8,10 @@ Are you proud of your portfolio? Have you built something worth sharing? **[Open
 
 ## ✨ About This Repository
 
-This repository was born from a single tweet by [Ali Spittel](https://twitter.com/ASpittel) that sparked a movement in the developer community.
+This repository showcases portfolio websites from developers across the world, making it easier to explore projects, skills, and creativity within the developer community.
 
-<a href="https://twitter.com/ASpittel/status/1171604728951779328">
-	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
-</a>
 
 Whether you're building your first portfolio or revamping an existing one, this repo serves as an endless source of creative inspiration — browse real portfolios built by real developers across every specialization, from frontend wizards to AI engineers.
-
-🌐 **[Explore the Developer Portfolios Website →](https://6e87v.hatchboxapp.com)**
-🎲 **[View a Random Portfolio →](https://s111ew.github.io/random-button-redirector)**
 
 ---
 
