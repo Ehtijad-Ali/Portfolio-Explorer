@@ -425,10 +425,9 @@ export default function App() {
         padding: "48px 24px 0", color: "#2a4a6a", fontSize: "13px"
       }}>
         <div style={{ marginBottom: "8px" }}>
-          Built with ❤️ by the developer community · Inspired by{" "}
-          <a href="https://twitter.com/ASpittel/status/1171604728951779328" target="_blank" rel="noopener noreferrer"
-            style={{ color: "#38bdf8", textDecoration: "none" }}>@ASpittel</a>
+          Built with ❤️ by the developer community
         </div>
+
         <div>
           <a href="https://6e87v.hatchboxapp.com" target="_blank" rel="noopener noreferrer"
             style={{ color: "#38bdf8", textDecoration: "none" }}>Developer Portfolios Website</a>
