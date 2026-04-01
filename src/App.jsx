@@ -210,14 +210,6 @@ export default function App() {
           Discover <strong style={{ color: "#38bdf8" }}>1,589+</strong> developer portfolios curated from the global dev community.
           Find inspiration. Get inspired.
         </p>
-        <p style={{ fontSize: "13px", color: "#3d6b8a", margin: "0 auto 36px" }}>
-          Inspired by{" "}
-          <a href="https://twitter.com/ASpittel/status/1171604728951779328" target="_blank" rel="noopener noreferrer"
-            style={{ color: "#38bdf8", textDecoration: "none" }}>Ali Spittel's tweet</a>
-          {" "}·{" "}
-          <a href="https://6e87v.hatchboxapp.com" target="_blank" rel="noopener noreferrer"
-            style={{ color: "#38bdf8", textDecoration: "none" }}>Visit Website</a>
-        </p>
 
         {/* Stats row */}
         <div style={{ display: "flex", justifyContent: "center", gap: "32px", flexWrap: "wrap", marginBottom: "40px" }}>
